@@ -7,9 +7,11 @@ to capture data in background.
 
 ##Screenshots
 > Autocapture play
+
 ![alt text][play]
 
 >Stop the capture
+
 ![alt text][stop]
 
 [model]: https://raw.githubusercontent.com/captaincode0/java-linux-sniffer/master/model.png
