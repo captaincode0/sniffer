@@ -9,5 +9,5 @@ package linuxsniffer;
  * @author root
  */
 public interface Capturable {
-    public void capture(PacketCapture device);
+    public void capture(PacketCapture pcapture);
 }
